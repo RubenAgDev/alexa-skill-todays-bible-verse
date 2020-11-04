@@ -7,7 +7,6 @@ const BIBLE_BOOKS = [
     "Acts"
 ];
 
-
 module.exports = {
     BIBLE_BASE_URL,
     BIBLE_BOOKS,
